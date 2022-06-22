@@ -10,4 +10,4 @@
 * HW3: **2-layer & 3-layer NN handcrafted implementation**
     * Implement the back propagation algorithm
     * Use only numpy package to train from scratch
-* Final Project: 
+* Final Project: **[Behavior-Classification-of-Exposition-Visitors](https://github.com/Jack24658735/Behavior-Classification-of-Exposition-Visitors)**
