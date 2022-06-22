@@ -1,4 +1,4 @@
-# Machine-Learning EE
+# Machine Learning (Graduate course)
 * Course Number: EE 6550
 * Year: 2022-Spring
 ### Homeworks & Final Project
